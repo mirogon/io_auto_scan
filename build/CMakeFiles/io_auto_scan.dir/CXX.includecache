@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/dev/projects/io_auto_scan/src/main.cpp
+iostream
+-
+stdlib.h
+-
+experimental/filesystem
+-
+stdlib.h
+-
+wiringPi.h
+-
+

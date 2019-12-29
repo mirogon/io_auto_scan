@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/dev/projects/io_auto_scan/src/global.h
+iostream
+-
+stdlib.h
+-
+experimental/filesystem
+-
+stdlib.h
+-
+wiringPi.h
+-
+SDL2/SDL_net.h
+-
+
+/home/pi/dev/projects/io_auto_scan/src/server.cpp
+server.h
+/home/pi/dev/projects/io_auto_scan/src/server.h
+
+/home/pi/dev/projects/io_auto_scan/src/server.h
+global.h
+/home/pi/dev/projects/io_auto_scan/src/global.h
+

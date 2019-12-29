@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/io_auto_scan.dir/src/main.cpp.o  -o io_auto_scan -lstdc++fs -lstdc++ 

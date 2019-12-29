@@ -1,0 +1,5 @@
+/home/pi/dev/projects/io_auto_scan/build/CMakeFiles/rebuild_cache.dir
+/home/pi/dev/projects/io_auto_scan/build/CMakeFiles/edit_cache.dir
+/home/pi/dev/projects/io_auto_scan/build/src/CMakeFiles/rebuild_cache.dir
+/home/pi/dev/projects/io_auto_scan/build/src/CMakeFiles/io_auto_scan.dir
+/home/pi/dev/projects/io_auto_scan/build/src/CMakeFiles/edit_cache.dir

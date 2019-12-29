@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/io_auto_scan.dir/main.cpp.o CMakeFiles/io_auto_scan.dir/global.cpp.o CMakeFiles/io_auto_scan.dir/server.cpp.o  -o io_auto_scan -lstdc++fs -lstdc++ -lSDL -lSDL_main -lSDL_net 
